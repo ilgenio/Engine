@@ -1,0 +1,6 @@
+/Source/.vs
+/Source/3rdParty/DirectXTex/Bin/Desktop_2022_Win10/x64/Debug
+/Source/3rdParty/DirectXTex/Shaders/Compiled
+/Source/build/out/x64/Debug
+/Source/build/tmp/x64/Debug
+Source/Engine.vcxproj.user
